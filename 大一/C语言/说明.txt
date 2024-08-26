@@ -1,0 +1,4 @@
+代码已开源~
+https://github.com/dydcyy-gh/Blue-Bridge-Cup-MCU
+
+更适合大一学生的代码，网上应该也找不到比这更好的代码
